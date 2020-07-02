@@ -1,0 +1,11 @@
+{ 
+	"origin": ["#them# are #look#", "#them# are #description#", "#mine# think #them2# are #look#", "#mine# think #them2# are #description#", "#them# make people feel #peopleDescribe#", "#them# have #have#"]
+,	"them": ["You", "It", "Thou", "They", "Y'all"]
+,	"them2": ["you", "it", "thee", "thou", "they", "y'all"]
+,	"mine": ["I", "Myself", "Me", "personally"]
+,	"look": ["beautiful", "charming", "stylish", "cute"]
+,	"description": ["kind", "smart", "perfect", "exceptional", "wonderful", "good listener", "strong", "awesome", "generous", "reliable", "so easygoing", "so creative", "considerate", "very understanding", "brave", "confident", "thoughtful", "friendly", "hardworking", "compassionate", "extremely imaginative", "insightful", "witty", "courageous", "hilarious", "helpful", "a good friend", "trustworthy", "inspirational", "so classy"]
+,	"peopleDescribe": ["important", "happy", "loved", "appreciated"]
+,	"have": ["a beautiful smile", "beautiful eyes", "a kind heart", "a great outfit", "beautiful hair", "a very intelligent mind", "a great personality", "great charisma"]
+
+}
